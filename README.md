@@ -31,7 +31,7 @@ Siga as instruções abaixo para configurar e executar o projeto:
 3. **Acesse o diretório do projeto:**
 
     ```bash
-    cd api-vollmed
+    cd API-Vollmed
     ```
 
 4. **Configure as propriedades do banco de dados:**
@@ -54,7 +54,7 @@ Siga as instruções abaixo para configurar e executar o projeto:
    
 ## Licença
 
-Esta API é distribuída sob a licença da empresa Alura, concedida pelo instrutor Rodrigo Ferreira.
+Esta API é desenvolvida através de cursos da Alura, lecionado pelo instrutor Rodrigo Ferreira.
 
 ## Contribuições
 
